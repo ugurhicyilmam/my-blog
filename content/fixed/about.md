@@ -4,20 +4,20 @@ title = "Hakkımda"
 
 +++
 
-Merhabalar, ben Uğur Hiçyılmam.
+Merhaba, ben Uğur Hiçyılmam.
 
-Şu anda Accenture Endüstriyel Yazılım Çözümleri firmasında yazılım mühendisi olarak çalışmaktayım. Ayrıca Boğaziçi Üniversitesi Yazılım Mühendisliği bölümünde yüksek lisans yapmaktayım.
+Accenture Endüstriyel Yazılım Çözümleri firmasında yazılım mühendisi olarak çalışmaktayım. Ayrıca Boğaziçi Üniversitesi Yazılım Mühendisliği bölümünde yüksek lisans yapmaktayım.
 
-Çocukluğundan beri programlamaya ilgi duyan bir insan olarak, özellikle henüz İngilizce bilmezken karşılaştığım temel sorunlardan birisi yeterli kaynak bulamamaktı. İngilizce okuma materyalleri açısından bir okyanussa, Türkçe maalesef bir göl bile değil. Bu sorun benim kısa sürede İngilizce öğrenmem açısından faydalı olmuş olsa da, gözlemlediğim kadarıyla pek çok insanın kısa sürede pes etmesine ve farklı alanlara yönelmesine yol açıyor.
+İlk bilgisayarımı edindiğim 12 yaşımdan bu yana, programlama hobi anlamında her zaman hayatımda yer almış olsa da bu işi profesyonel anlamda yapmaya başlamam yalnızca 3 yıllık bir deneyim. 
 
-Ülkemizin kalkınabilmesi için, yazılım okur-yazarlığının kesinlikle artması gerekiyor. Bunun ön koşullarından biri ise yeterince Türkçe kaynak oluşturabilmek.
+Lisans eğitimimi Yıldız Teknik Üniversitesi İktisat bölümünde aldım. Birkaç ufak iş deneyiminden sonra bu alanın bana göre olmadığını fark edip, hobimi meslek edinme kararı aldım. Yani, 23 yaşında, işsiz, kararsız ve bolca boş vakti olan bir insan olarak, 6 yaşında okula ilk adım attığım andan itibaren başlayarak 23 yaşıma kadar sürmüş "17" yıllık bir aradan sonra, kendi öğrenimimi kendi elime almaya karar verdim. 
 
-Son yıllarda gözlemlediğim kadarıyla, basılan Türkçe programlama kitaplarında artış var. Ancak basılan kitapların içerik anlamında kalitesizliği ve bu kitapların yazarlarının bu işi tamamen ticarete dökmüş olmaları beni üzüyor. Bu insanların, kendilerini alanlarında otorite gibi tanımlarken yüzleri kızarmıyor.
+Programlama alanında profesyonel anlamda ilerleme kararı almamın üzerinden 3 yıl geçti ve son 1 yıldır da aktif olarak sektörün içinde çalışıyorum. 
 
-Bu bloğu yazma amacım, bu sorunları bizzat deneyimlemiş bir insan olarak, Türkçe yazılım materyallerine ufak da olsa bir katkı yapabilmek ve programlamaya yeni başlayan insanlara yol gösterebilmek.
+Kendimi geliştirme sürecinde pek çok tecrübe edindim, pek çok hata yaptım. 3 yıl uzun bir zaman olmasa da bu süreçte bazı anlatacak şeyler edindim. Bu tecrübelerin özellikle başka yeni başlayan insanlara ışık tutacağına inanıyorum.
 
-Ben kendimi bu alanda bir otorite olarak görmüyorum ve umarım hiçbir zaman böyle bir egoya sahip olmam. Kendimi daha çok paylaşacak şeyleri olan tecrübeli bir öğrenci olarak görüyorum. Tecrübeliyim çünkü yeni başlayan kişilerin yapmaması gereken pek çok hatayı yaptım. Paylaşacak bazı şeylerim var çünkü okumaktan ve öğrenmekten çok keyif alıyorum. Bu ayrıca kendimi neden öğrenci olarak gördüğümü de açıklıyor.
+Bu blogta, iş hayatında edindiğim tecrübeleri, yaptığım hataları ve kendini geliştirmek isteyen arkadaşlar için tavsiyelerimi, yazılım mühendisliği ve programlama alanındaki bazı düşüncelerimi paylaşacağım. Çok genel olmadığı sürece, teknik konulardan özellikle uzak durmaya çalışacağım. 
 
-Bu blogta, iş hayatında edindiğim tecrübeleri, yaptığım hataları ve kendini geliştirmek isteyen arkadaşlar için tavsiyelerimi, yazılım mühendisliği ve programlama alanındaki bazı düşüncelerimi paylaşacağım.
+Sorularınız, önerileriniz veya fikirleriniz için, sosyal medya kanalları üzerinden bana erişebilirsiniz.
 
 Uğur Hiçyılmam
