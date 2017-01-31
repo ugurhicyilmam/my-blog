@@ -11,7 +11,7 @@ theme               = "cocoa"
 pygmentsuseclasses  = true
 #disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-62045338-3"
 #
 #[permalinks]
 fixed = ":title/"
@@ -23,22 +23,22 @@ locale       = "tr-TR"
 cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
 dateform     = "02.01.2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description  = "Don't panic"
-email        = "you@example.space"
-faviconfile  = "img/leaf.ico"
-github       = "//github.com/you"
+description  = "Panik yapma"
+email        = "ugurhicyilmam@gmail.com"
+faviconfile  = "img/favicon.ico"
+github       = "//github.com/ugurhicyilmam"
 highlightjs  = true
-linkedin     = "//linkedin.com/in/you"
-twitter      = "//twitter.com/you"
+linkedin     = "//linkedin.com/in/ugurhicyilmam"
+twitter      = "//twitter.com/ugurhicyilmam"
 selfIntro    = "developer, blogger" # appears in the site header when set to a non-empty string
 paginate = 5
 paginatePath  ="page"
 #
 #gravatar             = ""                # do not use in the same time as avatar
-#avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
- highlightjslanguages = ["go"]            # additional languages not included in the "common" set
+avatar                 = "img/profile.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+highlightjslanguages = ["go"]            # additional languages not included in the "common" set
 
-extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
+#extracssfiles = [ "/css/override.css" ] # In your `static` directory, add/remove files as necessary.
 
 # The following are DEPRECATED.
 #gatracker              = "XYZ" # use googleAnalytics instead
