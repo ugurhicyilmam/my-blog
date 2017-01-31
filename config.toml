@@ -9,7 +9,7 @@ author              = "Uğur Hiçyılmam"
 title               = "Bir yazılımcının notları..."
 theme               = "cocoa"
 pygmentsuseclasses  = true
-#disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "ugurhicyilmam" # Comment out to disable Disqus.
 pluralizelisttitles = false
 googleAnalytics     = "UA-62045338-3"
 #
