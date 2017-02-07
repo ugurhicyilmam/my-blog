@@ -42,5 +42,5 @@ highlightjslanguages = ["go"]            # additional languages not included in 
 
 # The following are DEPRECATED.
 #gatracker              = "XYZ" # use googleAnalytics instead
-#initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+#initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.asdasd
 

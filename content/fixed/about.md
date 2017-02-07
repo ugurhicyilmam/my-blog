@@ -10,7 +10,7 @@ Accenture Endüstriyel Yazılım Çözümleri firmasında yazılım mühendisi o
 
 İlk bilgisayarımı edindiğim 12 yaşımdan bu yana, programlama hobi anlamında her zaman hayatımda yer almış olsa da bu işi profesyonel anlamda yapmaya başlamam yalnızca 3 yıllık bir deneyim. 
 
-Lisans eğitimimi Yıldız Teknik Üniversitesi İktisat bölümünde aldım. Birkaç ufak iş deneyiminden sonra bu alanın bana göre olmadığını fark edip, hobimi meslek edinme kararı aldım. Yani, 23 yaşında, işsiz, kararsız ve bolca boş vakti olan bir insan olarak, 6 yaşında okula ilk adım attığım andan itibaren başlayarak 23 yaşıma kadar sürmüş "17" yıllık bir aradan sonra, kendi öğrenimimi kendi elime almaya karar verdim. 
+Lisans eğitimimi Yıldız Teknik Üniversitesi İktisat bölümünde aldım. Birkaç ufak iş deneyiminden sonra bu alanın bana göre olmadığını fark edip, hobimi meslek edinme kararı aldım. Yani, 23 yaşında, işsiz, kararsız ve bolca boş vakti olan bir insan olarak, 6 yaşında okula ilk adım attığım andan itibaren başlayarak 23 yaşıma kadar sürmüş "17" yıllık bir aradan sonra, kendi öğrenimimi kendi elime almaya karar verdim. O andan itibaren kendimi programlama alanında geliştirmeye başladım. 
 
 Programlama alanında profesyonel anlamda ilerleme kararı almamın üzerinden 3 yıl geçti ve son 1 yıldır da aktif olarak sektörün içinde çalışıyorum. 
 
