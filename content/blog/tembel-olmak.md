@@ -1,6 +1,6 @@
 +++
 date = "2017-02-07T17:23:17+03:00"
-title = "tembel olmak"
+title = "Tembel Olmak"
 +++
 
 Tembellik, toplum genelinde olumsuz bir özellik olarak değerlendirilir. Genel inanış, çok çalışmanın başarı için kaçınılmaz olduğu yönündedir.  Aile içinde bile, "Ruşen amcanın oğlu Sedat" gibi çalışkan insanlar övülürken, ebeveynlerimiz tembelliğimizden dolayı bizlere çemkirir. 
