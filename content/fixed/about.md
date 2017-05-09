@@ -12,11 +12,11 @@ Accenture Endüstriyel Yazılım Çözümleri firmasında yazılım mühendisi o
 
 Lisans eğitimimi Yıldız Teknik Üniversitesi İktisat bölümünde aldım. Birkaç ufak iş deneyiminden sonra bu alanın bana göre olmadığını fark edip, hobimi meslek edinme kararı aldım. Yani, 23 yaşında, işsiz, kararsız ve bolca boş vakti olan bir insan olarak, 6 yaşında okula ilk adım attığım andan itibaren başlayarak 23 yaşıma kadar sürmüş "17" yıllık bir aradan sonra, kendi öğrenimimi kendi elime almaya karar verdim. O andan itibaren kendimi programlama alanında geliştirmeye başladım. 
 
-Programlama alanında profesyonel anlamda ilerleme kararı almamın üzerinden 3 yıl geçti ve son 1 yıldır da aktif olarak sektörün içinde çalışıyorum. 
+Programlama alanında profesyonel anlamda ilerleme kararı almamın üzerinden 3 yıl geçti ve 1 yıldan fazladır da aktif olarak sektörün içinde çalışıyorum. 
 
-Kendimi geliştirme sürecinde pek çok tecrübe edindim, pek çok hata yaptım. 3 yıl uzun bir zaman olmasa da bu süreçte bazı anlatacak şeyler edindim. Bu tecrübelerin özellikle başka yeni başlayan insanlara ışık tutacağına inanıyorum.
+Son 2 yıldır yoğunluklu olarak Java ve Spring ekosistemi ile çalışıyorum. Bu bilinçli olarak yaptığım bir seçimden ziyade okulda yaptığım projelerin kısıtlamalarından kaynaklansa da bu teknolojilerle çalışmaktan keyif aldığımı söylemeliyim. Öte yandan, iş hayatında Java ve Spring kullanıyor olsam da boş kalan zamanlarımı yeni teknolojileri ve son trendleri deneyerek geçirmeye çalışıyorum.
 
-Bu blogta, iş hayatında edindiğim tecrübeleri, yaptığım hataları ve kendini geliştirmek isteyen arkadaşlar için tavsiyelerimi, yazılım mühendisliği ve programlama alanındaki bazı düşüncelerimi paylaşacağım. Çok genel olmadığı sürece, teknik konulardan özellikle uzak durmaya çalışacağım. 
+Bu blogta çoğunlukla en tecrübeli olduğum alanlar olan Java ve özellikle Spring ekosistemiyle ilgili yazmaya çalışacağım. Zaman zaman genel bilgisayar bilimi ve yazılım mühendisliği alanlarında da yazacağım.
 
 Sorularınız, önerileriniz veya fikirleriniz için, sosyal medya kanalları üzerinden bana erişebilirsiniz.
 
