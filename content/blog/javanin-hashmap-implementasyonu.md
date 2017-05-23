@@ -57,7 +57,7 @@ _ConcurrentModificationException_ multi-threaded bir uygulamada karşılaşabile
 
 HashMap içinde modCount adında bir alan HashMap üzerinde yapılan tüm değişikliklerin sayısını tutar. Benzer bir şekilde, HashMap'in "iterator" objesinde de iteratorModCount adında bir alan iterator ilk oluşturulduğundaki modCount değerini tutar. Her iterasyonda iteratorModCount ve modCount değerleri karşılaştırılır ve değerler farklı olduğunda ConcurrentModificationException fırlatılır.
 
-#### HashSet
+##### HashSet
 
 Java'nın HashSet implementasyonu aslında HashMap implementasyonunun biraz özelleştirilmiş hali olduğundan bu yazı da onu da açıklamak yerinde olacak.
 
@@ -75,7 +75,7 @@ public boolean add(E e) {
 Eklenen değerler bir HashMap'e _key_ olarak eklenir. _Value_ olarak ise PRESENT alanında tutulan, boş bir obje eklenir. Bu obje HashSet içerisinde hiç kullanılmaz ve _static_ bir alanda tutulur, yani uygulama içerisindeki tüm HashSet'lerde bu değer aynıdır.
 
 
-#### Kaynakça
+##### Kaynakça
 
 Ayrıntılı bilgi için aşağıdaki kaynaklara bakabilirsiniz:
 
