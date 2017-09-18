@@ -30,7 +30,7 @@ github       = "//github.com/ugurhicyilmam"
 highlightjs  = true
 linkedin     = "//linkedin.com/in/ugurhicyilmam"
 twitter      = "//twitter.com/ugurhicyilmam"
-selfIntro    = "thanks for all the fish" # appears in the site header when set to a non-empty string
+selfIntro    = "thanks for all the bits" # appears in the site header when set to a non-empty string
 paginate = 5
 paginatePath  ="page"
 #
