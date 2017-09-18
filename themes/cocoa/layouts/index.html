@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            <div class="page-heading">Blog</div>
+            <ul>
+            {{ range .Paginator.Pages.ByPublishDate }}
+                {{ if eq .Section "blog" }}
+                    {{ partial "li.html" . }}
+                {{ end }}
+            {{ end }}
+            </ul>
+            {{ partial "paginator.html" .}}
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
+
