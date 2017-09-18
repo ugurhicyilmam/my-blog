@@ -23,7 +23,7 @@ Ortaya çıkan bir diğer sorun uygulamadaki paket sayısının uygulama büyüd
 
 Paketleri katmanlara göre oluşturmanın alternatifi paketleri oluştururken özellikleri göz önünde bulundurmaktır. Bu yöntemde uygulamanın belirli bir özelliğine odaklanan her sınıf aynı paket içinde toplanır. 
 
-Örneğin bu yapıyı kullanan **pet-clinic** uygulamasındaki paket yapısı şu şekildedir:
+Örneğin bu yapıyı kullanan **[pet-clinic](https://github.com/spring-projects/spring-petclinic)** uygulamasındaki paket yapısı şu şekildedir:
 
 *	org.springframework.samples.petclinic.owner
 *	org.springframework.samples.petclinic.system
