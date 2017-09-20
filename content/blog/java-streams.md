@@ -60,3 +60,6 @@ int numberOfBytes = inputStream.read(byteValues, 3, 5)
 
 Örneğin yukarıdaki örnekte dizinin ilk üç değeri boş (0) ve ardından gelen 5 değer dosyadan okunan bayt değerleri olacaktır.
 
+Nadiren de olsa, okunacak bazı baytların atlanması gerektiği durumlarda **skip()** metodu kullanılabilir. 
+
+Son olarak InputStream ile yapılan iş bittiğinde mutlaka **close()** metodu çağrılarak InputStream için ayrılmış kaynakların (açık dosyalar, dinlenen portlar gibi) serbest bırakılması gerekir.
