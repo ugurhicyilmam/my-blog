@@ -46,7 +46,7 @@ byte[] byteValues = new byte[5]
 int numberOfBytes = inputStream.read(byteValues)
 {{< /highlight >}}
 
-Bu örnekte, dosyayı oluşturan tüm baytları bir dizi içerisine attık. read() metodundan cevap olarak ise okuduğu baytların sayısını aldık. 
+Bu örnekte, dosyayı oluşturan tüm baytları bir dizinin içine attık. read() metodundan cevap olarak ise okuduğu baytların sayısını aldık. 
 
 Eğer dosyada 5 bayttan daha fazla değer varsa, InputStream yazabildiği kadarını yazar. Benzer şekilde, eğer dosyada 5 bayttan daha az değer varsa, yalnızca olan değerleri yazar. 
 
