@@ -13,5 +13,11 @@ Düşük seviyeli baytların işlenmesini kolaylaştırmak amacıyla **filtre** 
 
 Filtreler, zincir şeklinde uygulanır. Zincirin ilk halkası java.io.InputStream veya java.io.OutputStream'den türeyen ve işlenmemiş bayt dönen sınıflardır. Daha sonraki halkalar ise baytları manipüle eden filtrelerden oluşur. Zincirin her halkası, kendinden önceki halkkadan dönen veriyi alır ve işleyerek bir sonraki halkaya döner. 
 
+Şimdi bir sohbet uygulaması üzerinden biriyle konuştuğunuzu düşünelim. Karşıdaki kişi size "selam" yazmış olsun. Aşağıdaki görsel, bu senaryodaki veri akışını ve filtrelerin işleyişini gösteriyor.
 
-... örnek ile devam et ...
+![network filter streams](/post_images/network_filters.png)
+
+Herhangi bir kaynaktan veri akışının yalnızca baytlar halinde olduğunu söylemiştik. İlk olarak ağdan bir takım baytlar alıyoruz. Bunları java.net.SocketInputStream aracılığıyla okuyoruz. 
+
+Ağdan veri göndermek yavaş bir iştir, bu nedenle veriyi sıkıştırmak iyi bir çözüm olacaktır. Ayrıca, ağlar güvenli ortamlar değildir, başkaları rahatlıkla ağdan gönderilen mesajlara "kulak misafiri" olabilir. Bu needenle veriyi şifrelemek de mantıklı olur. Bizim örneğimizde, bize şifrelenmiş olarak gönderilen verilerin şifresini javax.crypto.CipherInputStream filtresini kullanarak çözüyoruz. Ayrıca java.util.zip.GZIPInputStream sınıfını kullanarak sıkıştırılmış baytları açıyoruz. Bu noktadan sonra elimizde işlenmemiş baytlar kalıyor. Bunları da java.io.InputStreamReader kullanarak yazıya çeviriyoruz. 
+
